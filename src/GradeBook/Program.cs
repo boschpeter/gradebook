@@ -8,7 +8,7 @@ namespace GradeBook
         {
             if (args.Length > 0)
             {
-            Console.WriteLine($"Hello {args[1]} nice to see you again");
+            Console.WriteLine($"Hello {args[0]} nice to see you again");
             }
             else {
                 Console.WriteLine ("helleu");
