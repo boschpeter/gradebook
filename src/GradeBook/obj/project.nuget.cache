@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2oDgMfdl1Y882FYxXHZM42BGYywgBGHX0dYt/fhpx7e18L/sXzI2HId99F0vYIEfLFLnen2VLG1BKYlZMw/JQ==",
+  "dgSpecHash": "vAg7UVOjmtgPJgg5EQU4FEkzVIzv29NGNoRWJiUg4O2mH9jfku8I8z97taDo49NMODX7JlI/8rrTic7TO2FkDw==",
   "success": true,
-  "projectFilePath": "/Users/osx/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/GradeBook.csproj",
-  "expectedPackageFiles": [
-    "/Users/osx/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/osx/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\boscp08\\Projects\\scratch\\virtual-insanity\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
