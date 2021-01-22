@@ -6,7 +6,13 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            if (args.Length > 0)
+            {
+            Console.WriteLine($"Hello {args[1]} nice to see you again");
+            }
+            else {
+                Console.WriteLine ("helleu");
+            }
         }
     }
 }
