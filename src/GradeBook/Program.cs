@@ -12,7 +12,8 @@ namespace GradeBook
          var book = new Book ("Scotts grade book");
          book.AddGrade(89.1);
          book.AddGrade(90.5);
-         book.AddGrade(77.5);
+         book.AddGrade(77.4);
+         book.AddGrade(77.6);
          book.ShowStatistics();
 
       

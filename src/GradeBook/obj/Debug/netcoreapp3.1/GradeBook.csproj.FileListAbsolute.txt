@@ -23,3 +23,16 @@ C:/Users/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/D
 C:/Users/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
 C:/Users/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
 C:/Users/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
