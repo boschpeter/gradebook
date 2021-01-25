@@ -1,3 +1,8 @@
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.csprojAssemblyReference.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.AssemblyInfoInputs.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.AssemblyInfo.cs
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.csproj.CoreCompileInputs.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/GradeBook
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
@@ -86,10 +91,8 @@
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.csprojAssemblyReference.cache
-/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.AssemblyInfoInputs.cache
-/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.AssemblyInfo.cs
-/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.csproj.CoreCompileInputs.cache
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/bin/Debug/netcoreapp3.1/GradeBook.pdb
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.csproj.CopyComplete
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.dll
 /home/boscp08/Projects/scratch/virtual-insanity/gradebook/test/GradeBook.test/obj/Debug/netcoreapp3.1/GradeBook.test.pdb

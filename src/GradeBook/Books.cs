@@ -1,5 +1,5 @@
-using System.Collections.Generic;
 using System;
+using System.Collections.Generic;
 
 namespace GradeBook
 {
@@ -17,28 +17,38 @@ namespace GradeBook
         grades.Add(grade);
      }
 
-     public void ShowStatistics()
+   //public class Statistics
+   // {
+   //     public double Average;
+   //     public double High;
+   //     public double Low;
+//
+   // }
+
+     public Statistics GetStatistics()
      {
 
-         var result =  0.0;
-         var highGrade = double.MinValue;
-         var lowGrade = double.MaxValue;
+            var result = new Statistics();
+            result.Average =  0.0;
+            result.High = double.MinValue;
+            result.Low = double.MaxValue;
 
-        foreach (var number in grades)
-            {
+      foreach (var grade in grades)
+        {
 
-               lowGrade = Math.Min(number, lowGrade);
-               highGrade = Math.Max(number, highGrade);
-                result += number;
+             result.Low = Math.Min(grade, result.Low);
+             result.High= Math.Max(grade, result.High);
+             result.Average += grade;
 
-            }
-               
-             //  result = result / grades.Count;‹
-              result /= grades.Count;
-             Console.WriteLine($"the lowest rate is {lowGrade}");
-             Console.WriteLine($"the highest rate is {highGrade}");
-             Console.WriteLine($"The average grade is {result:N3}");
-     }
+           }
+             
+           
+              result.Average /= grades.Count;
+            return result;
+            //           Console.WriteLine($"the lowest rate is {lowGrade}");
+            //           Console.WriteLine($"the highest rate is {highGrade}");
+            //           Console.WriteLine($"The average grade is {result:N3}");
+        }
     
     static private List<double> grades;
     private string name;
