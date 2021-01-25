@@ -42,10 +42,9 @@ namespace GradeBook
                 result.Average += grade;
 
             }
-
-
             result.Average /= grades.Count;
             return result;
+            
             //           Console.WriteLine($"the lowest rate is {lowGrade}");
             //           Console.WriteLine($"the highest rate is {highGrade}");
             //           Console.WriteLine($"The average grade is {result:N3}");

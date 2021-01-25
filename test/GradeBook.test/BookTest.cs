@@ -3,10 +3,10 @@ using Xunit;
 
 namespace GradeBook.test
 {
-    public class BookTests
+    public class UnitTest1
     {
         [Fact]
-        public void BookCalculatesAnAverageGrade()
+        public void Test1()
         {
 
             //arrange
@@ -14,13 +14,13 @@ namespace GradeBook.test
             book.AddGrade(89.1);
             book.AddGrade(90.5);
             book.AddGrade(77.3);
-            //act
 
+            //act
             var result = book.GetStatistics();
 
 
             //assert
-            Assert.Equal(83.9, result.Average, 1);
+            Assert.Equal(85.6, result.Average, 1);
             Assert.Equal(90.5, result.High, 1);
             Assert.Equal(77.3, result.Low, 1);
 
