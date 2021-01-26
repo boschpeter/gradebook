@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 
 namespace GradeBook
@@ -14,8 +13,13 @@ namespace GradeBook
 
         public void AddGrade(double grade)
 
+        { if (grade <= 100 && grade >=0 )
+        //{ if (grade <= 100 || grade >=0 )
+        // if (grade == 90.0)
         {
+
             grades.Add(grade);
+        }  
         }
 
         //public class Statistics
