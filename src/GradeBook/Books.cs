@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace GradeBook
@@ -37,6 +38,7 @@ namespace GradeBook
             result.Average = 0.0;
             result.High = double.MinValue;
             result.Low = double.MaxValue;
+            
 
             foreach (var grade in grades)
             {
@@ -47,6 +49,37 @@ namespace GradeBook
 
             }
             result.Average /= grades.Count;
+
+            
+             switch (result.Average)
+                {
+                  case var d when d >= 90.0:
+                    result.letter = 'A';
+                    break;
+                    
+                    case var d when d >= 80.0:
+                    result.letter = 'B';
+                    break;        case var d when d >= 70.0:
+                    result.letter = 'C';
+                    break;
+
+
+                    case var d when d >= 60.0:
+                    result.letter = 'D';
+                    break;
+
+                    default:
+                     result.letter ='F';
+                     break; 
+ 
+
+
+
+                }
+
+
+
+
             return result;
             
             //           Console.WriteLine($"the lowest rate is {lowGrade}");
