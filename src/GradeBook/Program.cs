@@ -72,12 +72,13 @@ namespace GradeBook
 //            }
             
             
-           }               
-           
+           }
+
 
 
             var stats = book.GetStatistics();
-             Console.WriteLine($"the name of the book is {book.Name}");
+            book.Name = "tt";
+            Console.WriteLine($"the name of the book is {book.Name}");
              Console.WriteLine($"the lowest rate is {stats.Low}");
              Console.WriteLine($"the highest rate is {stats.High}");
              Console.WriteLine($"The average grade is {stats.Average:N1}");
