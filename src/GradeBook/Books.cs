@@ -93,7 +93,23 @@ namespace GradeBook
         }
 
         static private List<double> grades;
-        public string Name;
+
+        public string  Name
+    {
+            get
+            {
+                return name;
+            }
+
+            set
+            {
+                name = value;
+
+            }
+
+        }
+
+        private string name;
 
     }
 }
