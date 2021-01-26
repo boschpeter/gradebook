@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+
 //git clone git@github.com:boschpeter/gradebook.git
 
 namespace GradeBook
@@ -40,8 +41,37 @@ namespace GradeBook
             {
               break;
             }
-            var grade = double.Parse(input);
-            book.AddGrade(grade);
+            
+            try
+            {
+                var grade = double.Parse(input);
+                book.AddGrade(grade);
+            }
+
+            catch ( ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                //throw;
+            }
+
+            catch ( FormatException  ex)
+            {
+                Console.WriteLine(ex.Message);
+                //throw;
+            }
+            finally
+            {
+                    System.Console.WriteLine("**");
+
+            }
+
+//            catch ( Exception ex)
+//            {
+//                Console.WriteLine(ex.Message);
+//                throw;
+//            }
+            
+            
            }               
            
 
